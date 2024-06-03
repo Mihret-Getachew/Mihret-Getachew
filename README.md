@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **anything open source**
 
-- 👨‍💻 All of my projects are available at [portfolio.mihret.dev](https://portfolio.mihret.dev)
+- 👨‍💻 All of my projects are available at [portfolio.mihret.dev](https://www.portfolio.mihret.dev/)
 
 - 💬 Ask me about **Express.js, Angular, React.js , React Native**
 
