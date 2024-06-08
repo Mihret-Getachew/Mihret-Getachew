@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px">, I'm Mercy</h1>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-<img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwwd3poM3diNWhpYWtqNjJtMDg0ZTB6M3N5cXByMmlvZTR1aTRkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="450" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwwd3poM3diNWhpYWtqNjJtMDg0ZTB6M3N5cXByMmlvZTR1aTRkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 
 <div align="left">
